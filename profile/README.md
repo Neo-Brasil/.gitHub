@@ -1,6 +1,7 @@
 <div align="center" id="menu">
 
-![NEOBRASIL](https://user-images.githubusercontent.com/101027809/229087527-1e67a742-2080-4678-af31-0483257c65ba.png)
+![logo-transparent](https://user-images.githubusercontent.com/101027809/230496338-0d6a4735-e906-4316-a9af-070bf81aba46.png)
+
 
 <br>
     
